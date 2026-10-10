@@ -140,37 +140,73 @@ It includes:
 
 ## 7. Key Findings
 
-The following findings were observed in the project dashboards:
+The dataset contains 1,470 employees, and 231 employees
+left; the overall attrition rate shown is 15.7%.
 
-- The dataset contains 1,470 employee records.
-- The dashboard shows 231 employees who left the company.
-- The overall attrition rate displayed in the dashboard is approximately 15.7%.
-- Sales Representatives show higher attrition among the displayed job roles.
-- Employees who work overtime show a higher attrition rate than employees who do not.
-- Attrition varies across departments, job roles, and employee groups.
-- Job satisfaction and work-life balance are useful factors to study when analysing employee retention.
-- Employees with shorter tenure may need additional attention from HR.
+The Sales and Human Resources departments show higher
+attrition than Research & Development in the dashboard.
 
-These findings describe patterns in the available data and do not establish that any single factor directly causes attrition.
+Sales Representatives have the highest displayed attrition among
+the job roles.
 
-## 8. Recommendations
+The 18--25 age group has the highest displayed attrition among
+the age groups shown.
 
-Based on the dashboard findings, the following actions may help improve employee retention:
+Male employees show slightly higher attrition than female employees
+in the dashboard.
 
-- Review workload and overtime practices.
-- Focus on job roles with higher attrition.
-- Provide mentoring and training for early-career employees.
-- Improve career development opportunities.
-- Collect regular employee feedback.
-- Encourage better work-life balance.
-- Review compensation and benefits for roles with higher attrition.
-- Monitor attrition by department, job role, overtime, satisfaction, and tenure.
+Single employees show higher attrition than married and divorced
+employees.
 
-## 9. Conclusion
+Employees who work overtime show much higher attrition than
+employees who do not work overtime.
 
-This project provided practical experience in data cleaning, exploratory data analysis, Python visualisation, and Power BI dashboard development.
+The dashboard reports average job satisfaction of 2.72 and
+average environment satisfaction of 2.73.
 
-By analysing employee attrition and workforce-related factors, the project presents useful information for understanding employee retention patterns and supporting HR decision-making.
+Average tenure is reported as 7 years.
+
+The dashboard shows higher attrition among employees with weaker
+work-life balance and among employees with shorter tenure.
+
+These are descriptive findings from the dashboard. They show observed
+patterns and associations; they do not, by themselves, establish that
+any one factor causes attrition.
+
+## 8.Recommendations
+
+Prioritise retention reviews for high-attrition roles, especially
+Sales Representatives.
+
+Review workload, scheduling, and overtime for employees who
+regularly work extra hours.
+
+Offer mentoring, onboarding support, and training for younger and
+early-career employees.
+
+Improve career-growth visibility and internal development
+opportunities.
+
+Use regular feedback, recognition, and manager support to monitor
+employee satisfaction.
+
+Review workload and shift planning to support work-life balance.
+
+Review compensation and benefits in roles where attrition is
+comparatively high.
+
+Monitor attrition regularly by department, role, overtime,
+satisfaction, and tenure using the dashboard.
+
+## Conclusion
+
+This project combines Python-based data cleaning and exploratory
+analysis with Power BI reporting to examine employee workforce patterns
+and attrition. The report covers 1,470 employee records, 231
+employees who left, an overall attrition rate of 15.7%, 9 Python
+visualizations, and 2 Power BI dashboard pages.
+The findings highlight overtime, job role, satisfaction, work-life balance, and
+shorter tenure as useful areas for HR teams to monitor when planning retention initiatives.
 
 
 
